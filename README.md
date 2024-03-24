@@ -1,26 +1,21 @@
-# Speed Detector (Toy Problem)
-
+# SA.01: WK1: Code Challenge
 #### Date, 2024/03/24
 
 #### By *Fabian likam*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+This repository contains the code to accomplish 3 simple tasks.
 
-## Installation
-You use git clone to be able to download the documents in the GitHub
+Student Grade Generator
+Speed Detector
+Net Salary Calculator 
+
 
 ## Installation Requirements
-Git
+fork or clone the code to your machine
 
-### Installation instruction
-```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
 
-```
 
-# Live Link
-[Git](gh-pages link)
 
 ## Technologies used
 HTML
@@ -29,7 +24,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/feibiss
 
 ### License
 The content of this site is licensed under the MIT license
